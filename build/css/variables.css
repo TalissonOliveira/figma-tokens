@@ -1,13 +1,29 @@
 /**
  * Do not edit directly
- * Generated on Sun, 14 Jan 2024 06:32:10 GMT
+ * Generated on Sun, 14 Jan 2024 07:26:25 GMT
  */
 
 :root {
+  --sizes-2: 8;
+  --sizes-4: 16;
+  --sizes-8: 32;
   --color-white: #ffffff;
   --color-gray-200: #c1c1c4;
   --color-gray-500: #50505c;
   --color-gray-800: #1c1c1f;
   --color-gray-900: #121214;
+  --color-purple-400: #9b74f3;
   --color-purple-500: #8257e6;
+  --font-label: [object Object];
+  --typography-label-font-size: 16;
+  --typography-label-text-decoration: none;
+  --typography-label-font-family: Inter;
+  --typography-label-font-weight: 400;
+  --typography-label-font-style: normal;
+  --typography-label-font-stretch: normal;
+  --typography-label-letter-spacing: 0;
+  --typography-label-line-height: 19.2;
+  --typography-label-paragraph-indent: 0;
+  --typography-label-paragraph-spacing: 0;
+  --typography-label-text-case: none;
 }
